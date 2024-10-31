@@ -1,13 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; /*Modle Box*/
 }
-
+/* This is body Design*/
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Nav start*/
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -40,7 +41,9 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+/* Nav End*/
 
+/*Foot start*/
 footer {
     background-color: #fec138;
     width: 100%;
@@ -63,3 +66,6 @@ footer div {
 footer a {
     color: #024e76;
 }
+/*foot end*/
+
+/*Hero Section Starts*/
